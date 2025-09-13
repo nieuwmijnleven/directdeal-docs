@@ -5,6 +5,7 @@ De volledige broncode van het DirectDeal-project is beschikbaar in de volgende G
 
 De repository bevat de implementatie van alle microservices binnen het systeem, gestructureerd volgens het hexagonale architectuurpatroon en Domain-Driven Design principes. 
 
+```plain
 directdeal/
 ├── direct-deal-account-service/       ← Gebruikersaccountservice
 ├── direct-deal-chatting-service/      ← Chatservice
@@ -14,6 +15,7 @@ directdeal/
 ├── direct-deal-transaction-history-service/ ← Transactiegeschiedenisservice
 ├── direct-deal-ui/                    ← Gebruikersinterface
 └── direct-deal-common/                ← Gemeenschappelijke modules
+```
 
 Hieronder een overzicht van de belangrijkste directories en bestanden:
 
