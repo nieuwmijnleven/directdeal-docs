@@ -26,18 +26,18 @@ Zo helpt dit document de lezer om het volledige verloop en de structuur van het 
 
 Dit document is als volgt opgebouwd:
 
-1. **[[directdeal/README|Introductie]]**
-2. **[[directdeal/Nederlands/Inhoudsopgave|Inhoudspgave]]**
-3. **[[directdeal/Nederlands/Introductie van het project|Introductie van het project]]** – onderwerp en achtergrond, ontwikkelingsdoelen, visie en kernwaarden, projectomvang  
-4. **[[directdeal/Nederlands/Projectdoelstellingen|Projectdoelstellingen]]** – functionele/technische doelstellingen en prestatie-indicatoren  
-5. **[[directdeal/Nederlands/Ontwikkelomgeving|Ontwikkelomgeving]]** – IDE, libraries, databases, frameworks, testtools  
-6. **[[directdeal/Nederlands/Uitvoeringsmethode|Uitvoeringsmethode]]** – lokale omgeving en GCP GKE, scripts, beheer van omgevingsvariabelen  
-7. **[[directdeal/Nederlands/Functie-overzicht|Functie-overzicht]]** – beschrijving van functies, scenario’s, gebruikerservaring  
-8. **[[directdeal/Nederlands/Beschrijving van de systeemarchitectuur|Beschrijving van de systeemarchitectuur]]** – systeemdiagrammen, MSA-ontwerp, technische keuzes  
-9. **[[directdeal/Nederlands/Ontwerp met de DDD (Domain-Driven Design)|Ontwerp met de DDD (Domain-Driven Design)]]** – domeinmodellering, Bounded Context, Aggregates, Entities, Value Objects, UML-diagrammen  
-10. **[[directdeal/Nederlands/Opbouw van microservices (met Spring Boot)|Opbouw van microservices (met Spring Boot)]]** – service-ontwerp en implementatie, API, service-communicatie, logging/monitoring  
-11. **[[directdeal/Nederlands/Conclusie en toekomstige verbeteringen|Conclusie en toekomstige verbeteringen]]** – resultaten, geleerde lessen, verbeter- en uitbreidingsmogelijkheden  
-12. **[[directdeal/Nederlands/Bijlage|Bijlage]]** – codelijsten, DB-schema, referentiemateriaal  
+1. **[Introductie](README.md)**
+2. **[Inhoudspgave](Nederlands/Inhoudsopgave.md)**
+3. **[Introductie van het project](<Nederlands/Introductie van het project.md>)** – onderwerp en achtergrond, ontwikkelingsdoelen, visie en kernwaarden, projectomvang  
+4. **[Projectdoelstellingen](<Nederlands/Projectdoelstellingen.md>)** – functionele/technische doelstellingen en prestatie-indicatoren  
+5. **[Ontwikkelomgeving](<Nederlands/Ontwikkelomgeving.md>)** – IDE, libraries, databases, frameworks, testtools  
+6. **[Uitvoeringsmethode](<directdeal/Nederlands/Uitvoeringsmethode.md>)** – lokale omgeving en GCP GKE, scripts, beheer van omgevingsvariabelen  
+7. **[Functie-overzicht](<Nederlands/Functie-overzicht.md>)** – beschrijving van functies, scenario’s, gebruikerservaring  
+8. **[Beschrijving van de systeemarchitectuur](<Nederlands/Beschrijving van de systeemarchitectuur.md>)** – systeemdiagrammen, MSA-ontwerp, technische keuzes  
+9. **[Ontwerp met de DDD (Domain-Driven Design)](<Nederlands/Ontwerp met de DDD (Domain-Driven Design).md>)** – domeinmodellering, Bounded Context, Aggregates, Entities, Value Objects, UML-diagrammen  
+10. **[Opbouw van microservices (met Spring Boot)](<Nederlands/Opbouw van microservices (met Spring Boot).md>)** – service-ontwerp en implementatie, API, service-communicatie, logging/monitoring  
+11. **[Conclusie en toekomstige verbeteringen](<Nederlands/Conclusie en toekomstige verbeteringen.md>)** – resultaten, geleerde lessen, verbeter- en uitbreidingsmogelijkheden  
+12. **[Bijlage](<Nederlands/Bijlage.md>)** – codelijsten, DB-schema, referentiemateriaal  
 
 ---
 
