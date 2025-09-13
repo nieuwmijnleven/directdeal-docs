@@ -196,7 +196,7 @@ CREATE TABLE BUY_HISTORY (
 
 	Hoewel MongoDB een NoSQL-database is en dus schemaloos werkt, zijn de schema’s in een Mongoose-achtige stijl opgesteld om de structuur van elk document beter begrijpelijk te maken voor de lezer.
 
-	```json
+```json
 {
   "collection": "SALE_LIST",
   "schema": {
@@ -305,7 +305,7 @@ CREATE TABLE BUY_HISTORY (
   }
 }
 
-	```
+```
 - **MongoDB** als event store voor de Sale Context, met een schema gericht op event logging en aggregaatstate reconstructie
     
 - **Kafka** topicschema’s voor event streaming en communicatie
