@@ -31,7 +31,7 @@ Dit document is als volgt opgebouwd:
 3. **[Introductie van het project](<Nederlands/Introductie van het project.md>)** – onderwerp en achtergrond, ontwikkelingsdoelen, visie en kernwaarden, projectomvang  
 4. **[Projectdoelstellingen](<Nederlands/Projectdoelstellingen.md>)** – functionele/technische doelstellingen en prestatie-indicatoren  
 5. **[Ontwikkelomgeving](<Nederlands/Ontwikkelomgeving.md>)** – IDE, libraries, databases, frameworks, testtools  
-6. **[Uitvoeringsmethode](<directdeal/Nederlands/Uitvoeringsmethode.md>)** – lokale omgeving en GCP GKE, scripts, beheer van omgevingsvariabelen  
+6. **[Uitvoeringsmethode](<Nederlands/Uitvoeringsmethode.md>)** – lokale omgeving en GCP GKE, scripts, beheer van omgevingsvariabelen  
 7. **[Functie-overzicht](<Nederlands/Functie-overzicht.md>)** – beschrijving van functies, scenario’s, gebruikerservaring  
 8. **[Beschrijving van de systeemarchitectuur](<Nederlands/Beschrijving van de systeemarchitectuur.md>)** – systeemdiagrammen, MSA-ontwerp, technische keuzes  
 9. **[Ontwerp met de DDD (Domain-Driven Design)](<Nederlands/Ontwerp met de DDD (Domain-Driven Design).md>)** – domeinmodellering, Bounded Context, Aggregates, Entities, Value Objects, UML-diagrammen  
