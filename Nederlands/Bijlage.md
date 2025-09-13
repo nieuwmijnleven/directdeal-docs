@@ -5,6 +5,7 @@ De volledige broncode van het DirectDeal-project is beschikbaar in de volgende G
 
 De repository bevat de implementatie van alle microservices binnen het systeem, gestructureerd volgens het hexagonale architectuurpatroon en Domain-Driven Design principes. 
 
+```plain
 directdeal/
 ├── direct-deal-account-service/       ← Gebruikersaccountservice
 ├── direct-deal-chatting-service/      ← Chatservice
@@ -14,6 +15,7 @@ directdeal/
 ├── direct-deal-transaction-history-service/ ← Transactiegeschiedenisservice
 ├── direct-deal-ui/                    ← Gebruikersinterface
 └── direct-deal-common/                ← Gemeenschappelijke modules
+```
 
 Hieronder een overzicht van de belangrijkste directories en bestanden:
 
@@ -194,7 +196,7 @@ CREATE TABLE BUY_HISTORY (
 
 	Hoewel MongoDB een NoSQL-database is en dus schemaloos werkt, zijn de schema’s in een Mongoose-achtige stijl opgesteld om de structuur van elk document beter begrijpelijk te maken voor de lezer.
 
-	```json
+```json
 {
   "collection": "SALE_LIST",
   "schema": {
@@ -303,7 +305,7 @@ CREATE TABLE BUY_HISTORY (
   }
 }
 
-	```
+```
 - **MongoDB** als event store voor de Sale Context, met een schema gericht op event logging en aggregaatstate reconstructie
     
 - **Kafka** topicschema’s voor event streaming en communicatie
