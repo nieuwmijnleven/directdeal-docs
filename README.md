@@ -27,7 +27,7 @@ Zo helpt dit document de lezer om het volledige verloop en de structuur van het 
 Dit document is als volgt opgebouwd:
 
 1. **[Introductie](README.md)**
-2. **[Inhoudspgave](Nederlands/2. Inhoudsopgave.md)**
+2. **[Inhoudspgave](<Nederlands/2. Inhoudsopgave.md>)**
 3. **[Introductie van het project](<Nederlands/3. Introductie van het project.md>)** – onderwerp en achtergrond, ontwikkelingsdoelen, visie en kernwaarden, projectomvang  
 4. **[Projectdoelstellingen](<Nederlands/4. Projectdoelstellingen.md>)** – functionele/technische doelstellingen en prestatie-indicatoren  
 5. **[Ontwikkelomgeving](<Nederlands/5. Ontwikkelomgeving.md>)** – IDE, libraries, databases, frameworks, testtools  
